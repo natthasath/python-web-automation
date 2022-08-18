@@ -1,0 +1,10 @@
+certifi
+requests
+selenium
+webdriver_manager
+msedge-selenium-tools
+robotframework
+robotframework-selenium2library
+robotframework-appiumlibrary
+python-dotenv
+python-decouple
