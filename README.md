@@ -30,10 +30,4 @@ Document is `Web Automation` script for check Web Uptime and check connect datab
 ### 🔁 Schedule
 <br>
 
-> Checklist | `One time`
-
-
-```
-Program/script      sqlcmd
-Add arguments       -S localhost\SQLEXPRESS -i "C:\mssql-powershell\Backup.sql"
-```
+> Web Uptime | `One time`
