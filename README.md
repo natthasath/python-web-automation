@@ -1,7 +1,5 @@
 # 🎉 Python Web Automation
 
-Web Automation is OpenSource Framework with python at 10.10.36.34 for check website and database connection by authentication
-
 Document is `Web Automation` script for check Web Uptime and check connect database with test user login
 
 ![version](https://img.shields.io/badge/version-1.0-blue)
