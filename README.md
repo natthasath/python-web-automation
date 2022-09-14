@@ -7,6 +7,7 @@ Document is `Web Automation` script for check Web Uptime and check connect datab
 ![uptime](https://img.shields.io/badge/uptime-100%25-brightgreen)
 
 ### 🆕 New Update
+
 - Allow HTTPS
 - Allow Driver Browser
 - Auto Fill Form Submit
@@ -19,6 +20,7 @@ Document is `Web Automation` script for check Web Uptime and check connect datab
 - Test Submit Data in Form
 
 ### 📰 Requirement
+
 * [Selenium](https://pypi.org/project/selenium/)
 * [Certifi](https://pypi.org/project/certifi/)
 * [Chrome Driver]()
