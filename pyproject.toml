@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "python-web-automation"
+version = "0.1.0"
+description = ""
+authors = ["Natthasath Saksupanara <natthasath.sak@gmail.com>"]
+license = "MIT License"
+readme = "README.md"
+packages = [{include = "python_web_automation"}]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+certifi = "^2022.12.7"
+requests = "^2.28.1"
+selenium = "3.141"
+webdriver-manager = "^3.8.5"
+msedge-selenium-tools = "^3.141.4"
+robotframework = "^6.0.1"
+robotframework-selenium2library = "^3.0.0"
+robotframework-appiumlibrary = "1.6.4"
+python-dotenv = "^0.21.0"
+python-decouple = "^3.6"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

@@ -1,10 +1,10 @@
 certifi
 requests
-selenium
+selenium==3.141
 webdriver_manager
 msedge-selenium-tools
 robotframework
 robotframework-selenium2library
-robotframework-appiumlibrary
+robotframework-appiumlibrary==1.6.4
 python-dotenv
 python-decouple
