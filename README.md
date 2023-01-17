@@ -23,9 +23,9 @@ Selenium is a browser automation tool that enables automating web browsers for t
 
 * [Selenium](https://pypi.org/project/selenium/)
 * [Certifi](https://pypi.org/project/certifi/)
-* [Chrome Driver]()
-* [Edge Driver]()
-* [Firefox Driver]()
+* [Chrome Driver](https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/)
+* [Edge Driver](https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/)
+* [Firefox Driver](https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/)
 
 ### 🔁 Schedule
 <br>
