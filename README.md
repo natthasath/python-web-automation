@@ -1,6 +1,6 @@
 # 🎉 Python Web Automation
 
-Document is `Web Automation` script for check Web Uptime and check connect database with test user login
+Selenium is a browser automation tool that enables automating web browsers for testing, scraping and other purposes. It allows to interact with web pages, simulate user actions and automate web tasks.
 
 ![version](https://img.shields.io/badge/version-1.0-blue)
 ![rating](https://img.shields.io/badge/rating-★★★★★-yellow)
