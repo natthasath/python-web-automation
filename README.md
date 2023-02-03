@@ -6,7 +6,7 @@ Selenium is a browser automation tool that enables automating web browsers for t
 ![rating](https://img.shields.io/badge/rating-★★★★★-yellow)
 ![uptime](https://img.shields.io/badge/uptime-100%25-brightgreen)
 
-### 🆕 New Update
+### ⚡ New Updates
 
 - Allow HTTPS
 - Allow Driver Browser
@@ -19,7 +19,7 @@ Selenium is a browser automation tool that enables automating web browsers for t
 - Test User Login
 - Test Submit Data in Form
 
-### 📰 Requirement
+### ✅ Requirements
 
 * [Selenium](https://pypi.org/project/selenium/)
 * [Certifi](https://pypi.org/project/certifi/)
