@@ -12,7 +12,7 @@ Selenium is a browser automation tool that enables automating web browsers for t
 - Allow Driver Browser
 - Auto Fill Form Submit
 
-### ⭐ Features
+### ✨ Features
 
 - Check Web Uptime
 - Check Connect Database
