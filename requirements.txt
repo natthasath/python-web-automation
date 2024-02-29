@@ -8,3 +8,4 @@ robotframework-selenium2library
 robotframework-appiumlibrary==1.6.4
 python-dotenv
 python-decouple
+urllib3==1.26.16

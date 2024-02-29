@@ -19,6 +19,7 @@ robotframework-selenium2library = "^3.0.0"
 robotframework-appiumlibrary = "1.6.4"
 python-dotenv = "^0.21.0"
 python-decouple = "^3.6"
+urllib3 = "1.26.16"
 
 
 [build-system]
