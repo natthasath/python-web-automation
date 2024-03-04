@@ -1,4 +1,5 @@
 from selenium import webdriver
+from selenium.webdriver.common.by import By
 from webdriver_manager.firefox import GeckoDriverManager
 from webdriver_manager.chrome import ChromeDriverManager
 from decouple import config
@@ -17,13 +18,13 @@ class FacebookLogin():
         self.driver.get(LOGIN_URL)
 
     def login(self):
-        email_element = self.driver.find_element_by_id('email')
+        email_element = self.driver.find_element(By.ID, 'email')
         email_element.send_keys(self.email)
 
-        password_element = self.driver.find_element_by_id('pass')
+        password_element = self.driver.find_element(By.ID, 'pass')
         password_element.send_keys(self.password)
 
-        login_button = self.driver.find_element_by_id('loginbutton')
+        login_button = self.driver.find_element(By.ID, 'loginbutton')
         login_button.click()
 
         time.sleep(2)
